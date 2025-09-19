@@ -13,7 +13,7 @@ Recommended Python: 3.10.x (tested with 3.10.11)
 # 1. Cloning
 ```
 git clone https://github.com/nhims2073/Face-Recognition-w-Facenet-Pytortch
-cd Face-Recognition-with-Facenet-Pytorch
+cd Face-Recognition-w-Facenet-Pytorch
 ```
 
 # 2. Create the environment
@@ -79,3 +79,4 @@ Loads the embeddings & names from data/, opens the webcam, detects faces, comput
 python face_recognition.py
 ```
 Press ESC to quit.
+
